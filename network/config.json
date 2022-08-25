@@ -13,7 +13,7 @@
   "features": {
     "search": true,
     "groupSelectorAttribute": true,
-    "hoverBehavior": "default"
+    "hoverBehavior": "enableEdgeHoverHighlight"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
