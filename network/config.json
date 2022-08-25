@@ -3,14 +3,13 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "/images/postthreadicon.png",
+    "file": "./images/postthreadicon.png",
     "link": "https://polygon.postthread.app",
     "text": "Postthread"
   },
   "text": {
     "title": "Social Graph"
   },
-  "legend": {},
   "features": {
     "search": true,
     "groupSelectorAttribute": true,
