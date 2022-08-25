@@ -3,23 +3,17 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "",
-    "link": "",
-    "text": "Pules"
+    "file": "/images/postthreadicon.png",
+    "link": "https://polygon.postthread.app",
+    "text": "Postthread"
   },
   "text": {
-    "more": "Test graph",
-    "intro": "Test graph",
-    "title": "Test graph"
+    "title": "Social Graph"
   },
-  "legend": {
-    "edgeLabel": "edge description",
-    "colorLabel": "Modularity",
-    "nodeLabel": "node description"
-  },
+  "legend": {},
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
+    "groupSelectorAttribute": true,
     "hoverBehavior": "default"
   },
   "informationPanel": {
